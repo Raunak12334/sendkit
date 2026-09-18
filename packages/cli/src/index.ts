@@ -64,3 +64,5 @@ program
     });
 
 program.parseAsync(process.argv);
+
+// https://api.telegram.org/bot8742327094:AAHGFsW_35wqZlFDSrnVjy2lRKrkK0LKzv4/getUpdates
